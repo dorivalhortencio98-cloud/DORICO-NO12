@@ -1,0 +1,18 @@
+FUTEBOL200 PRO - VERSAO ATUALIZADA
+
+1. Feche a janela preta do FUTEBOL200 PRO antigo.
+2. Extraia este ZIP em uma pasta NOVA (nao misture com a antiga).
+3. Abra a pasta futebol200_pro_motor e clique duas vezes em INICIAR.bat.
+4. A chave FOOTBALL_DATA_TOKEN que voce ja configurou no Windows sera reutilizada.
+5. Selecione a competicao e a partida para estimativas pre-jogo.
+6. Na aba Em andamento, escolha Todas as competicoes disponiveis e clique Atualizar.
+
+O painel so exibe dados que a API efetivamente devolve. Sem jogos ao vivo
+retornados, a lista ficara vazia. Escanteios e cartoes sao registro manual.
+Odds de casas de apostas nao sao buscadas automaticamente.
+Probabilidades pre-jogo sao experimentais, nao validadas para apostas.
+
+Se o programa nao iniciar por falta de bibliotecas, execute no terminal
+na pasta do programa: py -m pip install -r requirements.txt
+
+Nunca compartilhe sua chave da API.

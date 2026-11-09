@@ -1,0 +1,12 @@
+FUTEBOL200 PRO - TOP 4 SEM ODDS
+
+1. Extraia o ZIP numa pasta nova.
+2. Abra futebol200_pro_motor e dê dois cliques em INICIAR.bat.
+3. Escolha uma partida na aba Pré-jogo.
+4. Mantenha marcada a opção de excluir mercados de 0,5 gol, se desejar.
+5. Clique em ANALISAR JOGO para ver as quatro maiores probabilidades estimadas.
+
+Não precisa informar odds nem contratar API de odds.
+A variável FOOTBALL_DATA_TOKEN previamente configurada no Windows continua necessária.
+A consulta ao vivo mostra placares conforme cobertura da Football-Data.org; o TOP 4 ainda é somente pré-jogo.
+As probabilidades são experimentais e não equivalem a valor esperado de aposta.

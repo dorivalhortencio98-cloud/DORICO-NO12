@@ -1,0 +1,8 @@
+FUTEBOL200 PRO - NEON EDITION
+
+1. Extraia o ZIP em uma pasta nova.
+2. Abra futebol200_pro_motor e clique duas vezes em INICIAR.bat.
+3. O banner neon e ilustrativo: os botoes na imagem nao sao clicaveis. Use as abas PRE-JOGO e EM ANDAMENTO abaixo da imagem.
+4. Sua chave FOOTBALL_DATA_TOKEN permanece configurada no Windows.
+
+Os calculos e a logica do TOP 4 foram preservados.

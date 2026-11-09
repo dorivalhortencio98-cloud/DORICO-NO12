@@ -1,0 +1,6 @@
+DORICO NO12 PRO — NEON EDITION
+
+Abra INICIAR.bat para executar o programa.
+A identidade visual foi atualizada para DORICO NO12 PRO.
+Os módulos internos futebol200 permanecem com seus nomes técnicos para preservar o funcionamento.
+A chave FOOTBALL_DATA_TOKEN deve continuar configurada no ambiente; não compartilhe a chave publicamente.

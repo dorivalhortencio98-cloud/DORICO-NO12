@@ -1,0 +1,12 @@
+{
+  "source": "EXEMPLO_FICTICIO_NAO_USAR_EM_APOSTAS",
+  "retrieved_at_utc": "2026-11-08T00:00:00+00:00",
+  "mode": "pre",
+  "competition": "BSA",
+  "fixture_id": "EXEMPLO",
+  "absences": null,
+  "lineups": null,
+  "history": [
+    {"corners_home": 5, "corners_away": 4, "yellow_cards_home": 2, "yellow_cards_away": 3, "shots_home": 12, "shots_away": 8, "shots_on_target_home": 5, "shots_on_target_away": 3}
+  ]
+}

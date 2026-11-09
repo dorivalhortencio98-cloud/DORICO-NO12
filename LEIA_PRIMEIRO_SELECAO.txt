@@ -1,0 +1,13 @@
+FUTEBOL200 PRO - SELECAO AUTOMATICA
+
+1. Feche a versao anterior e extraia este ZIP em uma pasta nova.
+2. Abra futebol200_pro_motor e clique duas vezes em INICIAR.bat.
+3. Em Pre-jogo, escolha a partida, informe odds reais (uma por linha)
+   Exemplo: over_1.5=1.80
+            under_3.5=1.65
+4. Clique em ANALISAR JOGO.
+5. O programa exibe um unico candidato ou NAO ENTRAR.
+
+O programa nao busca odds automaticamente. O modo ao vivo exibe partidas,
+mas NAO ENTRAR ate que dados e modelo live estejam disponiveis.
+O metodo Poisson e experimental e nao foi validado para apostas reais.

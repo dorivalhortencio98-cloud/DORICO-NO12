@@ -1,0 +1,10 @@
+DORICO NO12 PRO - PUBLICACAO
+
+1. Crie repositorio no GitHub (ex.: DORICO-NO12).
+2. Envie os arquivos desta pasta para a RAIZ do repositorio (app.py, requirements.txt, futebol200/, assets/ etc.).
+3. Entre em https://share.streamlit.io e escolha New app.
+4. Selecione repositorio e arquivo principal app.py.
+5. Em Advanced settings > Secrets, adicione a linha FOOTBALL_DATA_TOKEN = "SUA_CHAVE" (substitua pela chave real).
+6. Clique Deploy. Nunca publique sua chave no GitHub.
+
+Os botoes desenhados no banner sao ilustrativos; as abas abaixo sao funcionais.

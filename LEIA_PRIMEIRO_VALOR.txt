@@ -1,0 +1,11 @@
+FUTEBOL200 PRO - ANALISE POR VALOR
+
+1. Extraia o ZIP em uma pasta NOVA.
+2. Abra futebol200_pro_motor e execute INICIAR.bat.
+3. Selecione a partida e informe as odds reais em campos simples.
+4. Clique em ANALISAR JOGO.
+
+O programa NAO escolhe automaticamente Mais de 0,5 gols pela maior probabilidade.
+Sem odds reais, mostra probabilidades e odds justas, mas nao recomenda entrada.
+Com odds reais, compara vantagem e valor esperado e mostra a melhor candidata elegivel.
+Dados ao vivo avancados ainda nao estao disponiveis na API atual.

@@ -1,0 +1,14 @@
+FUTEBOL200 PRO — CORREÇÃO DA SELEÇÃO
+
+1. Extraia o ZIP em uma pasta nova.
+2. Entre na pasta futebol200_pro_motor.
+3. Clique duas vezes em INICIAR.bat.
+4. Escolha a competição e a partida.
+5. Clique em ANALISAR JOGO. Não é obrigatório informar odds.
+
+SEM ODDS: mostra mercado de maior probabilidade, mas não indica valor de aposta.
+COM ODDS: abra 'Informar odds de forma simples' e preencha os mercados desejados.
+DADOS INSUFICIENTES: informa o motivo em vez de mostrar NÃO ENTRAR.
+
+Ao vivo: placares conforme cobertura da API; sem modelo de entrada ao vivo validado.
+A chave FOOTBALL_DATA_TOKEN permanece configurada no Windows.
